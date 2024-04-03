@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Gallery
 type: products
 image: /img/products-jumbotron.jpg
 intro:
