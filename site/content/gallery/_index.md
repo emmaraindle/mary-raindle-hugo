@@ -1,7 +1,7 @@
 ---
 title: Gallery
 type: gallery
-image: /img/products-jumbotron.jpg
+image: /img/2024-blue-green-jug.jpg
 intro:
   heading: What we offer
   description: >-
@@ -46,14 +46,13 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/2021-daffodils.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/2022-yellow-jug.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
-full_image: /img/products-full-width.jpg
+    image: /img/2023-violets.jpg
 ---
 
 
