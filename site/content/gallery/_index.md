@@ -1,6 +1,6 @@
 ---
 title: Gallery
-type: products
+type: gallery
 image: /img/products-jumbotron.jpg
 intro:
   heading: What we offer
